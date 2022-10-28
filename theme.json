@@ -1,0 +1,14 @@
+{
+    "name": "tressty",
+    "window": {
+        "applicationTheme": "dark"
+    },
+    "tab": {
+        "background": "terminalBackground",
+        "unfocusedBackground": "#08090d"
+    },
+    "tabRow": {
+        "background": "#08090d",
+        "unfocusedBackground": "#08090d"
+    }
+}
