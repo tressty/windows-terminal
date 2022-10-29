@@ -1,27 +1,27 @@
 {
     "name": "Tressty",
-
-    "cursorColor": "#eeffff",
-    "selectionBackground": "#eeffff",
-
+    
+    "cursorColor": "#E2E2E2",
+    "selectionBackground": "#E2E2E2",
+    
     "background": "#0F111A",
     "foreground": "#8F93A2",
             
-    "black": "#08090d",
-    "red": "#FF5370",
+    "black": "#090B10",
+    "red": "#f07178",
     "green": "#C3E88D",
     "yellow": "#FFCB6B",
     "blue": "#82AAFF",
     "purple": "#C792EA",
     "cyan": "#89DDFF",
-    "white": "#eeffff",
-
-    "brightBlack": "#464B5D",
-    "brightBlue": "#82AAFF",
-    "brightCyan": "#89DDFF",
+    "white": "#E2E2E2",
+    
+    "brightBlack": "#090B10",
+    "brightRed": "#f0352e",
     "brightGreen": "#C3E88D",
+    "brightYellow": "#FFCB6B",
+    "brightBlue": "#82AAFF",
     "brightPurple": "#C792EA",
-    "brightRed": "#FF5370",
-    "brightWhite": "#FFFFFF",
-    "brightYellow": "#FFCB6B"
+    "brightCyan": "#89DDFF",
+    "brightWhite": "#E2E2E2"
 }
