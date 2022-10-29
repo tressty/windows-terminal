@@ -5,10 +5,10 @@
     },
     "tab": {
         "background": "terminalBackground",
-        "unfocusedBackground": "#08090d"
+        "unfocusedBackground": "#181A1F"
     },
     "tabRow": {
-        "background": "#08090d",
-        "unfocusedBackground": "#08090d"
+        "background": "#181A1F",
+        "unfocusedBackground": "#181A1F"
     }
 }
